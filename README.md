@@ -1,5 +1,3 @@
-### Howdy, I'm Gerardo!
-
 <!--
 **gerardo712/gerardo712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋 I'm [Gerardo]
+
+I'm a senior at Georgia Tech studying Computer Science with a focus on Artificial Inetlligence and Media. Welcome to my GitHub profile! Here you'll find a mix of projects, experiments, and maybe a few surprises. Feel free to explore and reach out if you have any questions or want to collaborate!
+
+## 🔭 Recent Projects
+
+- [Monkeypox Misinformation Detection](https://github.gatech.edu/pages/dgould9/Twitter-bot-detection/): My team and I created an model to detect misinformation about the monkeypox outbreak on twitter using Machine Learning.
+- [Sneaky Sabotage](https://maxeverest.dev/drone_escape/): 3D stealth game where you have to collect keys and avoid drones!
+- [Handwritten Korean Character Recognition](link): My team and I created a model to be able to recognize Handwritten Korean Characters using Machine Learning.
+
+## 🌱 I’m currently learning
+
+- Generative AI using Deep Learning.
+- Game AI.
+- Data Visualization.
+
+## 💬 Ask me about
+
+- AI and Machine Learning.
+- Videogame Design.
+- Computer Science education and resources.
+
+## 📫 How to reach me
+
+- LinkedIn: www.linkedin.com/in/gerardo-torres-943a801b9
+- Email: gt61610@gmail.com
+
+## 😄 Pronouns
+
+He/Him
+
+## ⚡ Fun fact
+
+I'm also passionate about [Filmmaking!].
