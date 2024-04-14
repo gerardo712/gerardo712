@@ -45,4 +45,4 @@ He/Him
 
 ## ⚡ Fun fact
 
-I'm also passionate about Filmmaking! Check out my short film here: [The Cell](https://campusmoviefest.com/movies/99082-the-cell)!
+I'm also passionate about Filmmaking! Check out my short film here: [The Cell](https://campusmoviefest.com/movies/99082-the-cell)
